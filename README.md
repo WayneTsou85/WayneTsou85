@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Wayne Tsou</h1>
 <h3 align="center">Back-end developer</h3>
+
 - Connect with me: 📫 **wayne60406@gmail.com**
+
 ![WayneTsou85's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneTsou85&show_icons=true&theme=transparent)
 
 <h3 align="left">Languages and Tools:</h3>
